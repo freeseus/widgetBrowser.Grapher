@@ -1,0 +1,20 @@
+@import 'fonts';
+
+body{
+
+}
+
+.content{
+
+}
+
+//this is for the source
+text{
+	tspan{
+	    cursor:default !important;
+	}
+}
+
+g.highcharts-legend-item{
+	cursor: pointer;
+}
